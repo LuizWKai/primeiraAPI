@@ -23,15 +23,27 @@ Prisma (presumido) - ORM para acesso ao banco de dados
 📦 Estrutura do Projeto
 
 api/
+
 ├── src/
+
 │   ├── controllers/
+
 │   │   ├── createrCustumerController.ts
+
 │   │   ├── ListCustomersControllers.ts
+
 │   │   └── DeleteCustomerControllers.ts
+
 │   ├── services/
+
 │   │   └── DeleteCustomerService.ts
+
 │   ├── routes.ts
+
 │   └── server.ts
+
 ├── prisma/
+
 │   └── schema.prisma (presumido)
+
 └── package.json
