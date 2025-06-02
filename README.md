@@ -4,7 +4,8 @@ API de Gerenciamento de Clientes
 
 Uma API RESTful para gerenciar clientes, conectando um formulário de frontend a um banco de dados. Desenvolvida com Fastify e TypeScript.
 
-![image](https://github.com/user-attachments/assets/384eb69c-2e32-4d10-aba3-af40b5f81628)
+![image](https://github.com/user-attachments/assets/a35d470c-2eac-45c3-87cc-87d5e7f86f72)
+
 
 
 📋 Visão Geral
